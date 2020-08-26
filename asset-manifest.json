@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/aplank14.github.io/static/css/main.2feae731.chunk.css",
-    "main.js": "/aplank14.github.io/static/js/main.3db00653.chunk.js",
-    "main.js.map": "/aplank14.github.io/static/js/main.3db00653.chunk.js.map",
-    "runtime-main.js": "/aplank14.github.io/static/js/runtime-main.a078f5ec.js",
-    "runtime-main.js.map": "/aplank14.github.io/static/js/runtime-main.a078f5ec.js.map",
-    "static/js/2.b00e8bf2.chunk.js": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js",
-    "static/js/2.b00e8bf2.chunk.js.map": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js.map",
-    "index.html": "/aplank14.github.io/index.html",
-    "precache-manifest.351409fb3770d4fa206a9c76bd24f258.js": "/aplank14.github.io/precache-manifest.351409fb3770d4fa206a9c76bd24f258.js",
-    "service-worker.js": "/aplank14.github.io/service-worker.js",
-    "static/css/main.2feae731.chunk.css.map": "/aplank14.github.io/static/css/main.2feae731.chunk.css.map",
-    "static/js/2.b00e8bf2.chunk.js.LICENSE.txt": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js.LICENSE.txt",
-    "static/media/Internship.pdf": "/aplank14.github.io/static/media/Internship.35663db7.pdf",
-    "static/media/Landing.css": "/aplank14.github.io/static/media/landing.51d3b42c.jpg"
+    "main.css": "/static/css/main.a520be7a.chunk.css",
+    "main.js": "/static/js/main.28cc5d05.chunk.js",
+    "main.js.map": "/static/js/main.28cc5d05.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.b00e8bf2.chunk.js": "/static/js/2.b00e8bf2.chunk.js",
+    "static/js/2.b00e8bf2.chunk.js.map": "/static/js/2.b00e8bf2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d9eab85aa78932ba8dca5cfd82069c8.js": "/precache-manifest.8d9eab85aa78932ba8dca5cfd82069c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a520be7a.chunk.css.map": "/static/css/main.a520be7a.chunk.css.map",
+    "static/js/2.b00e8bf2.chunk.js.LICENSE.txt": "/static/js/2.b00e8bf2.chunk.js.LICENSE.txt",
+    "static/media/Internship.pdf": "/static/media/Internship.35663db7.pdf",
+    "static/media/Landing.css": "/static/media/landing.51d3b42c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a078f5ec.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.b00e8bf2.chunk.js",
-    "static/css/main.2feae731.chunk.css",
-    "static/js/main.3db00653.chunk.js"
+    "static/css/main.a520be7a.chunk.css",
+    "static/js/main.28cc5d05.chunk.js"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aplank14.github.io/static/css/main.2feae731.chunk.css",
+    "main.js": "/aplank14.github.io/static/js/main.3db00653.chunk.js",
+    "main.js.map": "/aplank14.github.io/static/js/main.3db00653.chunk.js.map",
+    "runtime-main.js": "/aplank14.github.io/static/js/runtime-main.a078f5ec.js",
+    "runtime-main.js.map": "/aplank14.github.io/static/js/runtime-main.a078f5ec.js.map",
+    "static/js/2.b00e8bf2.chunk.js": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js",
+    "static/js/2.b00e8bf2.chunk.js.map": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js.map",
+    "index.html": "/aplank14.github.io/index.html",
+    "precache-manifest.351409fb3770d4fa206a9c76bd24f258.js": "/aplank14.github.io/precache-manifest.351409fb3770d4fa206a9c76bd24f258.js",
+    "service-worker.js": "/aplank14.github.io/service-worker.js",
+    "static/css/main.2feae731.chunk.css.map": "/aplank14.github.io/static/css/main.2feae731.chunk.css.map",
+    "static/js/2.b00e8bf2.chunk.js.LICENSE.txt": "/aplank14.github.io/static/js/2.b00e8bf2.chunk.js.LICENSE.txt",
+    "static/media/Internship.pdf": "/aplank14.github.io/static/media/Internship.35663db7.pdf",
+    "static/media/Landing.css": "/aplank14.github.io/static/media/landing.51d3b42c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a078f5ec.js",
+    "static/js/2.b00e8bf2.chunk.js",
+    "static/css/main.2feae731.chunk.css",
+    "static/js/main.3db00653.chunk.js"
+  ]
+}
